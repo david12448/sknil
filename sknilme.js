@@ -1,5 +1,5 @@
 // 1. URL의 공통된 부분 (기본 주소)을 변수로 저장합니다.
-const BASE_URL = 'https://store.emart.com/branch/view.do?id=';  // ← store.emart.com 으로 수정
+const BASE_URL = 'https://eapp.emart.com/branch/view.do?id=';  // ← store.emart.com 으로 수정
 
 // 2. 각 지점의 고유한 ID만 객체에 저장합니다.
 const martIds = {
